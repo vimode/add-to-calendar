@@ -6,6 +6,8 @@ Adds a new contextMenu item which lets you add the highlighted text from any web
 
 ## What it does
 
+[!](screenshot-1.png)
+
 If you highlight a text and Add it to calendar, it will open a new tab and open the new Entry page in Google Calendar with selected text as title.
 
 If you highlight a numerical date and Add it to calendar, it will open a new tab and open the new Entry page in Google calendar with the selected date as the event date.
