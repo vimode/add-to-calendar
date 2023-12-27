@@ -6,7 +6,7 @@ Adds a new contextMenu item which lets you add the highlighted text from any web
 
 ## What it does
 
-[!](screenshot-1.png)
+![Extension context menu screenshot in Firefox](screenshot-1.png)
 
 If you highlight a text and Add it to calendar, it will open a new tab and open the new Entry page in Google Calendar with selected text as title.
 
