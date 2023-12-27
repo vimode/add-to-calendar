@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "version": "1.0",
+  "default_locale": "en",
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "tabs"
+  ],
+
+  "icons": {
+    "16": "icons/calendar-16.png",
+    "24": "icons/calendar-24.png",
+    "32": "icons/calendar-32.png",
+    "48": "icons/calendar-48.png",
+    "64": "icons/calendar-64.png",
+    "128": "icons/calendar-128.png"
+  }
+}

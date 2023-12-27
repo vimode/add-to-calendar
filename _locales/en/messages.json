@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Add to Calendar",
+    "description": "Name of the extension"
+  },
+
+  "extensionDescription":{
+    "message": "Add selected text to Calendar.",
+    "description": "Description of the ad-on."
+  },
+
+  "menuItemTextSelect" :{
+    "message": "Add '%s' to the calendar.",
+    "description": "Title of context menu item that adds the selected text when clicked."
+  }
+
+}
