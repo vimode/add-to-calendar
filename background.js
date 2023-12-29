@@ -1,8 +1,7 @@
 /*
  * To make it a global extension
- * chromium does not browser, but instead requires chrome
+ * chromium does not understand browser, but requires chrome
  */
-
 const API =  chrome || browser;
 
 // Debugging
